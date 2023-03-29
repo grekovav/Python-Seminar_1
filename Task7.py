@@ -12,3 +12,6 @@ for i in range(3):
     else:
         result += class1 // 2 + 1
 print('Количество парт: ', result)
+
+# или
+# print((int(input())+1) // 2 + (int(input())+1) // 2 + (int(input())+1) // 2)
