@@ -14,4 +14,4 @@ if d > max:
     max = d
 if e > max:
     max = e
-print(max)
+print("Максимум =", max)
